@@ -8,5 +8,5 @@ def pets
   @pets
 end
 
-def species=(species)
+def 
    
